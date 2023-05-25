@@ -36,3 +36,5 @@ I started to learn programming on my own through online courses. I develop appli
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ALagodzinska"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ALagodzinska&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
